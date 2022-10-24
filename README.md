@@ -1,7 +1,5 @@
 # Text-Preprocessing-for-Tweets
-Text Preprocessing for Tweets
 
-Text Preprocessing for Tweets in Kaggle Dataset:
 * removing [stopwords - hashtag - Mention- Punctuation  - HTTP URLs - etc..] .
 * Normalisation[Lemmatizer - Stemmer ] 
 
